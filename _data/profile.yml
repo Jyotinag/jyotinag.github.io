@@ -1,33 +1,38 @@
-primary_name: "Your Name"
+primary_name: "Jyotirmay Nag Setu"
 secondary_name: ""
-navbar_name: "Your Name"
+navbar_name: "Jyotirmay Nag Setu"
 
 positions:
-- name: Title or Position
-- name: Affiliation Name
-  logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
+- name: Ph.D. Candidate & Graduate Research Assistant
+- name: The University of Texas at San Antonio
+  logo: /assets/images/badges/ut-san-antonio-crest.svg  # Logo is optional
 
 
-email: "your@email.com"
-# cv_link: link-to-your-cv-file
-gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
-github: your_github_id
-twitter: your_twitter_id  # Do not include the '@' symbol
+email: "jyotirmaynagsetu@gmail.com"
+cv_link: 
+gscholar: M4jaqvcAAAAJ  # This is an example, replace it with your own Google Scholar ID
+github: Jyotinag
+# twitter: your_twitter_id  # Do not include the '@' symbol
 # wechat_qrcode: /assets/images/etc/wechat.jpg
 # wechat_prompt: >-
 #   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
 # linkedin: your-linked-in-id
-# orcid: 0000-0000-0000-0000
+orcid: 0009-0004-4672-8758
 
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
+    I am a Ph.D. candidate in Computer Science at the University of Texas at San Antonio, where I work in the San Antonio Virtual Environment Lab (SAVE Lab)
+    under the supervision of Dr. John Quarles. My research sits at the intersection 
+    of extended reality and artificial intelligence, focusing on cybersickness prediction, cognitive load estimation, and 
+    affective modeling in VR using multimodal physiological signals and deep learning.
   </p>
   <p>
-    There are various patterns of a bicolour cat. These range from the Van-patterned (colour on the crown of the head 
-    and the tail only) to a solid colour with a throat locket or medallion. Bicolour coats are found in many cat breeds, 
-    as well as being common in domestic longhair and domestic shorthair cats.
+    My work has been published in venues including IEEE TVCG, IEEE ISMAR, IEEE VR, and ACM VRST.
+  </p>
+  <p>
+    Before joining UTSA, I worked as a Data Engineer at Bangladesh Bank and Robi Axiata, where I built large-scale 
+    ETL pipelines and data analytics systems. I bring a strong foundation in PyTorch, TensorFlow, computer vision, and AR/VR development.
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
@@ -35,27 +40,39 @@ portrait_caption: >-
   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
-- name: Massachusetts Institute of Technology
-  logo: /assets/images/badges/MIT_Social_circle.png
+- name: The University of Texas at San Antonio
+  logo: /assets/images/badges/ut-san-antonio-crest.svg
   position: >- 
-    Department of Electrical Engineering and Computer Science <br/>
-    Ph.D. Student
-  date: Sep. 2024 - present
-- name: Peking University
-  logo: /assets/images/badges/PKU_red.png
-  position: B.S. in Computer Science
-  date: Sep. 2019 - Jul. 2021
+    Department of Computer Science <br/>
+    Ph.D. Candidate 
+  date: Jan. 2023 - present
+- name: The University of Texas at San Antonio
+  logo: /assets/images/badges/ut-san-antonio-crest.svg
+  position: M.S. in Computer Science (CGPA - 4.00)
+  date: Jan. 2023 - Jul. 2026
+- name: University of Dhaka
+  logo: /assets/images/badges/Dhaka_University_logo.svg
+  position: B.Sc. in Computer Science & Engineering (CGPA - 3.37)
+  date: Jan 2015-Jan 2019
 
-# experience:
-# - name: Peking University
-#   logo: /assets/images/badges/PKU_red.png
-#   position: Research Intern
-#   date: Sep. 2019 - Jul. 2021
+experience:
+  - name: University of Texas at San Antonio
+    logo: /assets/images/badges/ut-san-antonio-crest.svg
+    position: Graduate Research Assistant
+    date: Jan. 2023 - Present
+  - name: Bangladesh Bank
+    logo: /assets/images/badges/bb-logo.png
+    position: Data Engineer
+    date: Nov. 2020 - Dec. 2023
+  - name: Robi Axiata Ltd.
+    logo: /assets/images/badges/robi-axiata-logo.png
+    position: Data Engineer
+    date: May. 2020 - Nov. 2020
 
-awards:
-- name: Award Name 2
-  date: 2024
-- name: Award Name 1 
-  date: 2021
-- name: A quick brown fox jumps over the lazy dog and runs away award
-  date: 2021
+# awards:
+# - name: Award Name 2
+#   date: 2024
+# - name: Award Name 1 
+#   date: 2021
+# - name: A quick brown fox jumps over the lazy dog and runs away award
+#   date: 2021
