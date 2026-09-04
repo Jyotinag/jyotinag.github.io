@@ -5,7 +5,7 @@ selected:       true
 pub:            "IEEE transactions on visualization and computer graphics"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
-#pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
+pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Journal</span>'
 pub_date:       "2025"
 semantic_scholar_id: db2e2e53cf41d8048d05742f23f5d2f7e3a130a3  # use this to retrieve citation count
 abstract: >-

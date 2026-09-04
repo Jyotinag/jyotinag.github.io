@@ -5,7 +5,7 @@ selected:       true
 pub:            "IEEE International Symposium on Mixed and Augmented Reality (ISMAR)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
-#pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
+pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Conference</span>'
 pub_date:       "2024"
 semantic_scholar_id: be323aff4c7faab9efceac501801746f1eba1b09  # use this to retrieve citation count
 abstract: >-
