@@ -1,6 +1,6 @@
 ---
 title:          "A Statistical Abstraction Framework for Integrating Heterogeneous VR Datasets in Ordinal Cybersickness Prediction"
-date:           2025-03-21 00:01:00 +0800
+date:           2026-03-21 00:01:00 +0800
 selected:       true
 pub:            "IEEE Conference on Virtual Reality and 3D User Interfaces (VR)"
 # pub_pre:        "Submitted to "
